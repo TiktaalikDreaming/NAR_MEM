@@ -1099,9 +1099,9 @@ PART
 	link = MEMdockingBase_4293962530
 	link = MEMBallute_4293938604
 	link = MEM.Drogue_4293933920
-	link = MEM-Antenna-Insert_4293928484
+	link = MEM.Antenna.Insert_4293928484
 	link = MEM.ChuteInsert_4293925900
-	attN = chute1,MEM-Antenna-Insert_4293928484
+	attN = chute1,MEM.Antenna.Insert_4293928484
 	attN = chute2,MEM.ChuteInsert_4293925900
 	attN = chute3,MEM.Drogue_4293933920
 	attN = chute4,MEMBallute_4293938604
@@ -1568,7 +1568,7 @@ PART
 }
 PART
 {
-	part = MEM-Antenna-Insert_4293928484
+	part = MEM.Antenna.Insert_4293928484
 	partName = Part
 	pos = -0.319999993,15.8000002,-2.61535615E-09
 	attPos = 0,0,0
